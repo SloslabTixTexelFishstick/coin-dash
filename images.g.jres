@@ -1,0 +1,19 @@
+{
+    "image1": {
+        "data": "hwQQABAAAACZmZmZmZl5d5mZmZmZmXd3mZmZmZl3d3eZmZmZeXd3d5mZmZl5d3d3mZmZeXd3d3eZmZl3d3d3d5mZeXd3d3d3mZl3d3d3d3eZeXd3d3d3d5l3d3d3d3d3mXd3d3d3d3eZeXd3d3d3d5mZeXd3d3d3mZl3d3d3d3eZmXd3d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Background"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "MzIwMDA4MDAwODAwMDIwMDAwMDAwMDAwMDAwMDAwMDAzMDMzMzMwMzMwMzMzMzAzMzAzMzMzMDNhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAzMDMzMzMwMzMwMzMzMzAzYWFhYWFhYWFhYWFhYWFhYTIyMjIyMjIy",
+        "displayName": "Player"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
